@@ -36,40 +36,7 @@
         <div class="navbar-custom">
             <ul class="list-unstyled topnav-menu float-right mb-0">
                 <li class="dropdown notification-list">
-                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button"
-                        aria-haspopup="false" aria-expanded="false">
-                        <i class="bi bi-bell-fill" style="color: white;"></i>
-                        <!--<span class="badge badge-danger rounded-circle noti-icon-badge">4</span> -->
-                    </a>
-                    <div class="dropdown-menu dropdown-menu-right dropdown-lg">
-
-                        <!-- item-->
-                        <div class="dropdown-item noti-title">
-                            <h5 class="font-16 m-0">
-                                <span class="float-right">
-                                    <a href="" class="text-dark">
-                                        <small style="color: white;">Clear All</small>
-                                    </a>
-                                </span style="color: white;">Notification
-                            </h5>
-                        </div>
-
-                        <div class="slimscroll noti-scroll">
-
-                        </div>
-
-                        <!-- All-->
-                        <a href="javascript:void(0);"
-                            class="dropdown-item text-primary text-center notify-item notify-all" style="color: white;">
-                            View all
-                            <i class="fi-arrow-right"></i>
-                        </a>
-
-                    </div>
-                </li>
-
-                <li class="dropdown notification-list">
-                    <a class="nav-link dropdown-toggle nav-user mr-0" data-toggle="dropdown" href="#" role="button"
+                    <a class="nav-link nav-user mr-0" data-toggle="dropdown" href="#" role="button"
                         aria-haspopup="false" aria-expanded="false">
                         <img src="assets/images/users/user-default.webp" alt="user-image" class="rounded-circle">
                         <span class="pro-user-name ml-1" style="color: white;">
@@ -103,13 +70,13 @@
             <div class="logo-box">
                 <a href="/" class="logo text-center logo-dark">
                     <span class="logo-lg">
-                        <img src="https://lppm.ukdw.ac.id/wp-content/uploads/2023/02/logo-banner-1-300x58.png"
+                        <img src="assets/images/lppm-2.png"
                             alt="Logo_LPPM.png" height="43">
                         <!-- <span class="logo-lg-text-dark">Simple</span> -->
                     </span>
                     <span class="logo-sm">
                         <!-- <span class="logo-lg-text-dark">S</span> -->
-                        <img src="https://lppm.ukdw.ac.id/wp-content/uploads/2023/02/cropped-logo-banner-1.png" alt=""
+                        <img src="assets/images/lppm-1.png" alt=""
                             height="43">
                     </span>
                 </a>

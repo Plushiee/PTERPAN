@@ -1,9 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: url('../images/logo-removebg-preview-300x300.png');
-    background-repeat: no-repeat;
-    background-size: contain 50%;
-    background-position: center;
+    background-color: #282c34;    
 }
 
 .container {
@@ -11,7 +8,10 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-
+    background-image: url('../images/lppm-1.png');
+    background-repeat: no-repeat;
+    background-size: contain 50%;
+    background-position: center;
 }
 
 .card {
